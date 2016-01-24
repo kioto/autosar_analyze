@@ -1,0 +1,22 @@
+#
+# AUTOSAR 4.2.2 URL
+#
+http://www.autosar.org/specifications/release-42/
+http://www.autosar.org/specifications/release-42/main
+http://www.autosar.org/specifications/release-42/software-architecture/general
+http://www.autosar.org/specifications/release-42/software-architecture/communication-stack
+http://www.autosar.org/specifications/release-42/software-architecture/system-services
+http://www.autosar.org/specifications/release-42/software-architecture/diagnostic-services
+http://www.autosar.org/specifications/release-42/software-architecture/memory-stack
+http://www.autosar.org/specifications/release-42/software-architecture/peripherals
+http://www.autosar.org/specifications/release-42/software-architecture/implementation-integration
+http://www.autosar.org/specifications/release-42/software-architecture/rte
+http://www.autosar.org/specifications/release-42/software-architecture/libraries
+http://www.autosar.org/specifications/release-42/software-architecture/safety-and-security
+http://www.autosar.org/specifications/release-42/methodology-and-templates/general
+http://www.autosar.org/specifications/release-42/methodology-and-templates/methodology
+http://www.autosar.org/specifications/release-42/methodology-and-templates/tools
+http://www.autosar.org/specifications/release-42/methodology-and-templates/templates
+http://www.autosar.org/specifications/release-42/application-interfaces/general
+
+# end of file
