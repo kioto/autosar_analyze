@@ -3,6 +3,10 @@ Analyzing AUTOSAR specification
 
 shとpython3で書いてます。
 
+パッケージのインストールが必要です。
+
+$ pip3 install pdfminer3k
+
 ## AUTOSARのPDFファイルをダウンロード
 
 get_autosar_pdf.sh
